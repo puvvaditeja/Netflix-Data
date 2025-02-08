@@ -14,7 +14,7 @@
 - How is content distributed across different ratings (TV-MA, PG-13, etc.)?
 - How has the number of movies and TV shows changed over the years?
 
-- Dashboard Interaction <a href="https://public.tableau.com/views/Netflix_17389964619490/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View Dashboard</a>
+- Dashboard Interaction with Tableau Public<a href="https://public.tableau.com/views/Netflix_17389964619490/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View Dashboard</a>
 
 ## Dashboard
 ![Netflix](https://github.com/user-attachments/assets/cb83da44-4f05-4b46-8aee-df2325e2f6b9)
