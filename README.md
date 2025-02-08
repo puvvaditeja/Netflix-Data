@@ -1,2 +1,5 @@
-# Netflix-Data
-This project analyzes Netflix's movie and TV show catalog, offering insights into content distribution across different genres, countries, ratings, and years. The dashboard provides an interactive visual representation to help users explore the platform's content trends effectively.
+# Netflix-Data-Analysis(Interactive Dashboard creation using Tableau)
+## Project Objective
+-To analyze Netflix’s content distribution based on genres, ratings, and countries.
+-To understand trends in content production over the years.
+-To provide business insights for stakeholders about the most popular genres and content categories.
