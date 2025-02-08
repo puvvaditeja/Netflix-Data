@@ -18,3 +18,10 @@
 
 ## Dashboard
 ![Netflix](https://github.com/user-attachments/assets/cb83da44-4f05-4b46-8aee-df2325e2f6b9)
+
+## Project Insights
+- Movies dominate Netflix’s content catalog, making up 68.42% of the total content.
+- The USA produces the most content, followed by other key regions.
+- The most popular genre is Documentaries, followed by Stand-Up Comedy and Dramas.
+- V-MA is the most frequent rating, indicating a preference for mature audiences.
+- Netflix’s content production peaked around 2017-2019, showing a rapid increase before declining.
