@@ -16,6 +16,8 @@
 
 - Dashboard Interaction <a href="https://github.com/puvvaditeja/Netflix-Data/blob/main/Netflix.png">View Dashboard</a>
 
+- Dashboard Interaction with Tableau Public <a href="https://public.tableau.com/app/profile/teja.puvvadi5284/viz/Netflix_17389964619490/Netflix"> Interactive Dashboard</a>
+
 ## Dashboard
 ![Netflix](https://github.com/user-attachments/assets/cb83da44-4f05-4b46-8aee-df2325e2f6b9)
 
