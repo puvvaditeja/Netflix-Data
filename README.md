@@ -15,3 +15,6 @@
 - How has the number of movies and TV shows changed over the years?
 
 - Dashboard Interaction <a href="https://github.com/puvvaditeja/Netflix-Data/blob/main/Netflix.png">View Dashboard</a>
+
+## Dashboard
+![Netflix](https://github.com/user-attachments/assets/cb83da44-4f05-4b46-8aee-df2325e2f6b9)
