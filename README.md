@@ -8,8 +8,10 @@
 - <a href="https://github.com/puvvaditeja/Netflix-Data/blob/main/netflix_titles.txt">Dataset</a>
 
 ## Questions
-What is the distribution of movies vs. TV shows on Netflix?
-2️⃣ Which countries produce the most content on Netflix?
-3️⃣ What are the top 10 genres available on Netflix?
-4️⃣ How is content distributed across different ratings (TV-MA, PG-13, etc.)?
-5️⃣ How has the number of movies and TV shows changed over the years?
+- What is the distribution of movies vs. TV shows on Netflix?
+- Which countries produce the most content on Netflix?
+- What are the top 10 genres available on Netflix?
+- How is content distributed across different ratings (TV-MA, PG-13, etc.)?
+- How has the number of movies and TV shows changed over the years?
+
+- Dashboard Interaction <a href="https://github.com/puvvaditeja/Netflix-Data/blob/main/Netflix.png">View Dashboard</a>
